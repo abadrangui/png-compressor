@@ -1,0 +1,10 @@
+{
+  "name": "compresspng",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.30.6"
+  }
+}
